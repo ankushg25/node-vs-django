@@ -1,0 +1,6 @@
+[submodule "django_server"]
+	path = django_server
+	url = https://github.com/ankushg25/django_server.git
+[submodule "nodejs_server"]
+	path = nodejs_server
+	url = https://github.com/ankushg25/nodejs_server.git
